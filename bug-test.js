@@ -1,4 +1,4 @@
-// Bug test file for AI review
+// Bug test file for AI review - test webhook
 const API_KEY = '123456789abcdef';
 
 function testSecurityBug() {
@@ -37,4 +37,4 @@ function testDeadCode() {
     console.log('never runs');
 }
 
-console.log('Bug test file loaded');
+console.log('Bug test file loaded - webhook test');

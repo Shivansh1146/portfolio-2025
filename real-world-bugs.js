@@ -1,4 +1,4 @@
-// Test file for AI Code Reviewer - analytics verification
+// Test file for AI Code Reviewer - final analytics test
 
 const API_KEY = "sk_live_123456789abcdef"; // Hardcoded secret
 

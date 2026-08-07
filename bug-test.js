@@ -1,4 +1,4 @@
-// Bug test file for AI review - final test
+// Bug test file for AI review - stats verification
 const API_KEY = '123456789abcdef';
 
 function testSecurityBug() {
@@ -37,4 +37,4 @@ function testDeadCode() {
     console.log('never runs');
 }
 
-console.log('Bug test file loaded - final test');
+console.log('Bug test file loaded - stats verification');

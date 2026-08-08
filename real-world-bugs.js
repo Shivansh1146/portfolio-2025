@@ -1,6 +1,7 @@
 ﻿// Test file for AI Code Reviewer
 
-const API_KEY = "sk_live_123456789abcdef"; // Hardcoded secret
+# SAFE: Load from environment variable instead
+value = os.getenv('YOUR_SECRET_KEY')
 
 function login(user) {
     console.log("Password:", user.password); // Sensitive information
